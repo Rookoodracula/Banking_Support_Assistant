@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Streamlit config / cache
+.streamlit/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Heavy model checkpoints (if downloaded locally)
+*.pth
+*.bin
+*.onnx
+# Exclude model weights & datasets
+models/
+outputs/
+*.bin
+*.pth
+*.safetensors
+*.onnx
+*.h5
+
+# Exclude system/checkpoints
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
