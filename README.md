@@ -429,19 +429,19 @@ streamlit run app.py
 
 ## Home Page
 
-(Project_screenshots\Screenshot 2026-07-27 125616.png)
+![Home Page](Project_screenshots\Screenshot 2026-07-27 125616.png)
 
 ---
 
 ## Prediction Page
 
-(Project_screenshots\Screenshot 2026-07-27 125645.png)
+![Prediction Page](Project_screenshots\Screenshot 2026-07-27 125645.png)
 
 ---
 
 ## Chatbot Output
 
-(Project_screenshots\Screenshot 2026-07-27 125705.png)
+![Chatbot Output](Project_screenshots\Screenshot 2026-07-27 125705.png)
 
 ---
 
