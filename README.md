@@ -442,6 +442,15 @@ streamlit run app.py
 ### Chatbot Output
 <img src="Screenshot%202026-07-27%20125705.png" width="800" alt="Chatbot Output">
 
+## 🤖 Trained Model Weights
+
+Due to GitHub file size limitations, the trained DistilBERT / transformer model weights for this project are hosted on the **Hugging Face Model Hub**:
+
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Hub-yellow)](https://huggingface.co/Abhiroopbasu/Banking_77_chatbot)
+
+🔗 **Direct Link:** [https://huggingface.co/Abhiroopbasu/Banking_77_chatbot](https://huggingface.co/Abhiroopbasu/Banking_77_chatbot)
+
+
 # 👨‍💻 Skills Demonstrated
 
 - Natural Language Processing
