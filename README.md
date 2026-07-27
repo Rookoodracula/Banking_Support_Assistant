@@ -427,23 +427,20 @@ streamlit run app.py
 
 # 📷 Screenshots
 
-## Home Page
+## 📷 Screenshots
 
-![Home Page](Project_screenshots\Screenshot 2026-07-27 125616.png)
+### Home Page
+<img src="Project_screenshots/Screenshot%202026-07-27%20125616.png" width="800" alt="Home Page">
 
----
+<br>
 
-## Prediction Page
+### Prediction Page
+<img src="Project_screenshots/Screenshot%202026-07-27%20125645.png" width="800" alt="Prediction Page">
 
-![Prediction Page](Project_screenshots\Screenshot 2026-07-27 125645.png)
+<br>
 
----
-
-## Chatbot Output
-
-![Chatbot Output](Project_screenshots\Screenshot 2026-07-27 125705.png)
-
----
+### Chatbot Output
+<img src="Project_screenshots/Screenshot%202026-07-27%20125705.png" width="800" alt="Chatbot Output">
 
 # 👨‍💻 Skills Demonstrated
 
