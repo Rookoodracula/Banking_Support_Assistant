@@ -429,18 +429,16 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-### Home Page
-<img src="Screenshot%202026-07-27%20125616.png" width="800" alt="Home Page">
+## 📷 Screenshots
 
-<br>
+### Home Page
+![Home Page](Screenshot%202026-07-27%20125616.png)
 
 ### Prediction Page
-<img src="Screenshot%202026-07-27%20125645.png" width="800" alt="Prediction Page">
-
-<br>
+![Prediction Page](Screenshot%202026-07-27%20125645.png)
 
 ### Chatbot Output
-<img src="Screenshot%202026-07-27%20125705.png" width="800" alt="Chatbot Output">
+![Chatbot Output](Screenshot%202026-07-27%20125705.png)
 
 ## 🤖 Trained Model Weights
 
