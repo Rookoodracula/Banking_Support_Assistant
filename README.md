@@ -444,7 +444,7 @@ Due to GitHub file size limitations, the trained DistilBERT / transformer model 
 
 [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Hub-yellow)](https://huggingface.co/Abhiroopbasu/Banking_77_chatbot)
 
-🔗 **Direct Link:** [https://huggingface.co/Abhiroopbasu/Banking_77_chatbot](https://huggingface.co/Abhiroopbasu/Banking_77_chatbot)
+🔗 **MODEL LINK:** [https://huggingface.co/Abhiroopbasu/Banking_77_chatbot](https://huggingface.co/Abhiroopbasu/Banking_77_chatbot)
 
 
 # 👨‍💻 Skills Demonstrated
